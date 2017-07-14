@@ -13,7 +13,6 @@ public class MoveZeroes {
 			nums[insertPos++] = 0;
 		}
 	}
-
 	public static void main(String[] args) {
 
 		int[] nums = { 0, 1, 3, 0, 12, 0 };
